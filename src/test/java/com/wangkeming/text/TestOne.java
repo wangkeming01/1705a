@@ -8,6 +8,6 @@ public class TestOne {
 	public void test(){
 		System.out.println("helloWord!");
 		System.out.println("璧靛織鏉版槸涓�楅��!");
-		System.out.println("刘源是个傻逼");
+		System.out.println("刘源是个傻assdasdasdsaasdssad逼");
 	}
 }
