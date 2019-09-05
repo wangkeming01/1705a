@@ -7,6 +7,7 @@ public class TestOne {
 	@Test
 	public void test(){
 		System.out.println("helloWord!");
-		System.out.println("赵志杰是个逗逼!");
+		System.out.println("璧靛織鏉版槸涓�楅��!");
+		System.out.println("111");
 	}
 }
