@@ -17,14 +17,14 @@ public class UtilsTest {
 	//测试电话
 	@Test
 	public void test02() {
-		String text = "1383838438";
+		String text = "13838384381";
 		System.out.println(StringUtil.isMobileNumber(text));
 	}
 	
 	//测试邮箱
 	@Test
 	public void test03() {
-		String text = "1383838438@qq.com";
+		String text = "1383838438qq.com";
 		System.out.println(StringUtil.isEmail(text));
 	}
 }
